@@ -13,7 +13,7 @@ To get started, follow these steps:
 
 2. Navigate to the cloned repository:-
 
-        cd RESTful-api
+        cd Crudappfinal
 
 3. Start the Docker containers:-
 
